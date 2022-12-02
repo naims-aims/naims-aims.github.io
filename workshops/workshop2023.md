@@ -9,7 +9,7 @@ permalink: /workshops/workshop2023
 
 ## About The Workshop
 
-The Artificial Intelligence and Machine-Learning Subgroup (AIMS) of the North American Imaging in MS Cooperative (NAIMS) will be hosting a remote workshop focused on federated learning. Federated learning is a technique allowing for training of AI models across multiple servers/centers without directly sharing the underlying data. Rather than sharing the data, the model is shared between institutions instead, thereby circumventing the intrinsic challenges associated with data privacy and governance.
+The Artificial Intelligence and Machine-Learning Subgroup (AIMS) of the North American Imaging in MS Cooperative (NAIMS) will be hosting a virtual workshop focused on federated learning. Federated learning is a technique allowing for training of AI models across multiple servers/centers without directly sharing the underlying data. Rather than sharing the data, the model is shared between institutions instead, thereby circumventing the intrinsic challenges associated with data privacy and governance.
 
 The purpose of the workshop is to gather a critical mass of people to brainstorm on suitable solutions for MS lesion segmentation in the context of a multi-site study. There will be a series of talks given by experts, with hands-on experience in federated learning for medical image segmentation, followed by a discussion session. 
 

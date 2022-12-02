@@ -39,7 +39,7 @@ This will be a single day workshop. We hope that times will accomodate people on
 - **Julien Cohen-Adad** (Polytechnique Montreal / Mila): CODA ([https://github.com/coda-platform](https://github.com/coda-platform))
 - **Peter Chang** (University of California, Irvine): TensorFlow framework for medical FL
 - **Brennan Nichyporuk** (McGill University / Mila): Generalization across cohorts/sources (and accounting for biases) for MS lesion ([https://arxiv.org/pdf/2108.00713.pdf](https://arxiv.org/pdf/2108.00713.pdf))
-- - **Farhad Imam** (Gates Ventures): GRIP Architecture (Gates Ventures): GRIP Architecture
+- **Farhad Imam** (Gates Ventures): GRIP Architecture (Gates Ventures): GRIP Architecture
 
 ## Organizers
 

@@ -1,6 +1,11 @@
-# Workshop on Federated Learning for Multiple Sclerosis Lesion Segmentation
+---
+title: Workshop - 2023
+permalink: /workshops/workshop2023
+---
 
-**January 20th 2023**
+<h1 align="center">Workshop on Federated Learning for <br/> Multiple Sclerosis Lesion Segmentation</h1>
+
+<p align="center" style="font-size:150%"><strong>To be held virtually on January 20th 2023</strong></p>
 
 ## About The Workshop
 
@@ -12,19 +17,18 @@ Please mark it on your calendars! All levels of experience and backgrounds are w
 
 ## Agenda
 
+This will be a single day workshop. We hope that times will accomodate people on the west and east coast of North America.
+
 **ALL TIMES EDT**:
 
+| Time | Topic |
+|---|---|
 | 10:00 | Brief intro (what is FL, purpose of the workshop) |
-| --- | --- |
 | 10:15 | Introduce Miro whiteboard: If ppl during the workshop have ideas, please enter them in the whiteboard (eg: ‘question’ category) |
 | 10:30 | Series of 4x20min talks (15min talk, 5min discussion) from people who have experience with medical FL and/or who have solutions |
 | 12:00 | Break (zoom link stays open) |
 | 13:00 | Series of 3x20min talks (15min talk, 5min discussion) from people who have experience with medical FL and/or who have solutions |
-| 14:30 | Discussion, next steps, assign tasks
-- Data management (File format, preprocessing, ground truth labeling protocols)
-- FL Platforms (list each publicly available, their pros/cons, how easy to deploy, DL framework, proof-of-concept)
-- Regulatory challenges (IRB, access to PACS, involvement of IT dept, protocol access between sites, country-dependent regulations)
-- Hackathon (preparation, XXX) |
+| 14:30 | Discussion, next steps, assign tasks |
 | 17:00 | Adjourn |
 
 ## Speakers

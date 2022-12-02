@@ -24,7 +24,7 @@ This will be a single day workshop. We hope that times will accomodate people on
 | Time | Topic |
 |---|---|
 | 10:00 | Brief intro (what is FL, purpose of the workshop) |
-| 10:15 | Introduce Miro whiteboard: If ppl during the workshop have ideas, please enter them in the whiteboard (eg: ‘question’ category) |
+| 10:15 | Introduce Miro whiteboard: It will allow people having ideas/suggestions during the workshop to enter them in the whiteboard |
 | 10:30 | Series of 4x20min talks (15min talk, 5min discussion) from people who have experience with medical FL and/or who have solutions |
 | 12:00 | Break (zoom link stays open) |
 | 13:00 | Series of 3x20min talks (15min talk, 5min discussion) from people who have experience with medical FL and/or who have solutions |
@@ -33,13 +33,13 @@ This will be a single day workshop. We hope that times will accomodate people on
 
 ## Speakers
 
-- Marco Lorenzi (INRIA): [https://fedbiomed.gitlabpages.inria.fr/](https://fedbiomed.gitlabpages.inria.fr/)
-- Alexandros Karargyris (IHU Strasbourg): [https://www.medperf.org/](https://www.medperf.org/)
-- Spyros Bakas (University of Pennsylvania): The Federated Tumor Segmentation initiative ([https://www.med.upenn.edu/cbica/fets/](https://www.med.upenn.edu/cbica/fets/))
-- Julien Cohen-Adad (Polytechnique Montreal / Mila): CODA ([https://github.com/coda-platform](https://github.com/coda-platform))
-- Peter Chang (University of California, Irvine): TensorFlow framework for medical FL
-- Brennan Nichyporuk (McGill University / Mila): Generalization across cohorts/sources (and accounting for biases) for MS lesion ([https://arxiv.org/pdf/2108.00713.pdf](https://arxiv.org/pdf/2108.00713.pdf))
-- Farhad Imam (Gates Ventures): GRIP Architecture
+- **Marco Lorenzi** (INRIA): [https://fedbiomed.gitlabpages.inria.fr/](https://fedbiomed.gitlabpages.inria.fr/)
+- **Alexandros Karargyris** (IHU Strasbourg): [https://www.medperf.org/](https://www.medperf.org/)
+- **Spyros Bakas** (University of Pennsylvania): The Federated Tumor Segmentation initiative ([https://www.med.upenn.edu/cbica/fets/](https://www.med.upenn.edu/cbica/fets/))
+- **Julien Cohen-Adad** (Polytechnique Montreal / Mila): CODA ([https://github.com/coda-platform](https://github.com/coda-platform))
+- **Peter Chang** (University of California, Irvine): TensorFlow framework for medical FL
+- **Brennan Nichyporuk** (McGill University / Mila): Generalization across cohorts/sources (and accounting for biases) for MS lesion ([https://arxiv.org/pdf/2108.00713.pdf](https://arxiv.org/pdf/2108.00713.pdf))
+- - **Farhad Imam** (Gates Ventures): GRIP Architecture (Gates Ventures): GRIP Architecture
 
 ## Organizers
 

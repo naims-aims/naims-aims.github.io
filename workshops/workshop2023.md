@@ -15,6 +15,10 @@ The purpose of the workshop is to gather a critical mass of people to brainstorm
 
 Please mark it on your calendars! All levels of experience and backgrounds are welcome.
 
+## How to connect
+
+Zoom link: https://polymtl-ca.zoom.us/j/89691175199
+
 ## Agenda
 
 This will be a single day workshop. We hope that times will accomodate people on the west and east coast of North America.

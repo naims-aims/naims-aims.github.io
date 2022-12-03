@@ -15,6 +15,10 @@ The purpose of the workshop is to gather a critical mass of people to brainstorm
 
 Please mark it on your calendars! All levels of experience and backgrounds are welcome.
 
+## Registration and pricing
+
+No need to register, and the workshop is **free** 🙂
+
 ## How to connect
 
 Zoom link: https://polymtl-ca.zoom.us/j/89691175199

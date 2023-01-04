@@ -27,7 +27,7 @@ Zoom link: https://polymtl-ca.zoom.us/j/89691175199
 
 This will be a single day workshop. We hope that times will accomodate people on the west and east coast of North America.
 
-**ALL TIMES EDT**:
+**ALL TIMES EST**:
 
 | Time | Topic |
 |---|---|
@@ -52,5 +52,5 @@ This will be a single day workshop. We hope that times will accomodate people on
 ## Organizers
 
 - Julien Cohen-Adad (Polytechnique Montreal / Mila)
-- Dzung Pham (NIH)
+- Dzung Pham (Uniformed Services University)
 - Alexander Brandt (University of California, Irvine)

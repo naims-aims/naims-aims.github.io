@@ -17,11 +17,17 @@ Please mark it on your calendars! All levels of experience and backgrounds are w
 
 ## Registration and pricing
 
-No need to register, and the workshop is **free** 🙂
+The workshop is **free** 🙂
+
+👉 Please register [here](https://forms.gle/htyGwLcVaH1grpKZ6) so we can grant you access to the Miro board.
+
 
 ## How to connect
 
-Zoom link: https://polymtl-ca.zoom.us/j/89691175199
+🎥 [Zoom link](https://polymtl-ca.zoom.us/j/89691175199)
+
+🗒 [Miro board](https://miro.com/app/board/uXjVPyYHVis=/?share_link_id=554247143055). This board is used as a brainstorming platform. To be able to edit this board during the conference, please [register to this workshop](https://forms.gle/htyGwLcVaH1grpKZ6). 
+
 
 ## Agenda
 

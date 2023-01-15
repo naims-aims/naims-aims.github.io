@@ -1,2 +1,4 @@
 title: "NAIMS-AIMS"
 markdown: GFM
+# Add a button in the footer to edit the current page.
+edit_page_button: true

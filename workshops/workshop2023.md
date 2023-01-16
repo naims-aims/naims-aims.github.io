@@ -31,9 +31,9 @@ The workshop is **free** 🙂
 
 ## Agenda
 
-This will be a single day workshop. We hope that times will accomodate people on the west and east coast of North America.
+This is a single day workshop. We hope that times will accomodate people on the west and east coast of North America.
 
-**ALL TIMES EST**:
+**Times are Eastern Time Zone (UTC-05:00)**:
 
 | Time | Topic |
 |---|---|

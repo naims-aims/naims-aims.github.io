@@ -8,3 +8,5 @@ We are a group of academic researchers in the field of medical imaging analysis.
 
 ## News
 * We will be hosting our first (virtual) workshop on Federated Learning on January 20th, 2023. Please join us for a day of informative talks from and discussions with experts in the field. More information can be found on the workshop's [page](/workshops/workshop2023). 
+
+[Edit this page on GitHub](https://github.com/naims-aims/naims-aims.github.io)

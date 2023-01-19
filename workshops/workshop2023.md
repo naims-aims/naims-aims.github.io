@@ -41,7 +41,7 @@ This is a single day workshop. We hope that times will accomodate people on the 
 | 10:15 | Introduce Miro whiteboard: It will allow people having ideas/suggestions during the workshop to enter them in the whiteboard |
 | 10:30 | **Alexandros Karargyris** (IHU Strasbourg): [https://www.medperf.org/](https://www.medperf.org/) |
 | 10:50 | **Marco Lorenzi** (INRIA): [https://fedbiomed.gitlabpages.inria.fr/](https://fedbiomed.gitlabpages.inria.fr/) |
-| 11:10 | **Spyros Bakas** (University of Pennsylvania): The Federated Tumor Segmentation initiative ([https://www.med.upenn.edu/cbica/fets/](https://www.med.upenn.edu/cbica/fets/)) |
+| 11:10 | **Sarthak Pati** (University of Pennsylvania): The Federated Tumor Segmentation initiative ([https://www.med.upenn.edu/cbica/fets/](https://www.med.upenn.edu/cbica/fets/)) |
 | 11:30 | **Julien Cohen-Adad** (Polytechnique Montreal / Mila): CODA ([https://github.com/coda-platform](https://github.com/coda-platform)) |
 | 12:00 | *Break (zoom link stays open)* |
 | 13:00 | **Brennan Nichyporuk** (McGill University / Mila): Generalization across cohorts/sources (and accounting for biases) for MS lesion ([https://arxiv.org/pdf/2108.00713.pdf](https://arxiv.org/pdf/2108.00713.pdf)) |

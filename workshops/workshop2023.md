@@ -60,6 +60,4 @@ This is a single day workshop. We hope that times will accomodate people on the 
 
 ## Statistics
 
-<html>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-2U-KQc6dEnmlv1QJz40Hoch5tmDDwZlekklQfIZggeesMFjwQXIS0tMJqPk6SNzLqXKW8-COUWI6/pubchart?oid=425011970&amp;format=interactive"></iframe>
-</html>
